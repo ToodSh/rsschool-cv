@@ -82,5 +82,5 @@ export {
 - HTML academy: https://htmlacademy.ru/intensive/javascript
 
 #### About my english
-I have a low level english. I think about elementary +. I have a little english practice every day and I learn english lessons 2 times in a week. 
+I have a low level english. I think about elementary +. I have a little english practice every day and I learn english lessons 2 times in a week :) 
 
